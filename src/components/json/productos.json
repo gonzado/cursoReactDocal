@@ -1,0 +1,22 @@
+[
+    {"id":1, "nombre":"Croquetas de cecina", "calorias":600, "descripcion":"Deliciosas croquetas de cecina de León", "imagen":"https://www.cerlesa.com/wp-content/uploads/2017/07/Croqueta-Cecina_002_4.jpg", "precio":8.9, "stock":150, "categoria":"Entrantes"},
+
+    {"id":2, "nombre":"Smokey cheese fries", "calorias":550, "descripcion":"Deliciosas patatas cortadas a mano, coronadas con queso fundido, salsa ahumada y bacon", "imagen":"https://fostershollywood.es/sites/default/files/images/product/pulled-smoked-cheese-fries.png", "precio":7.9, "stock":150, "categoria":"Entrantes"},
+
+    {"id":3, "nombre":"Crujiente de cebolla", "calorias":300, "descripcion":"Auténticas tiras de cebolla", "imagen":"https://www.vips.es/sites/default/files/styles/optimize/public/ficha_producto-aros_cebolla_con_plato_211020_720x500_0.jpg?itok=5TMBErcS", "precio":7.5, "stock":150, "categoria":"Entrantes"},
+
+    {"id":4, "nombre":"Cheeseburger", "calorias":1000, "descripcion":"Hamburguesa con carne 100% vacuno, queso americano, tomate, lechuga y salsa", "imagen":"https://thegoodburger.com/assets/web/img/products/burgers/cheese/cheeseburguer1.jpg", "precio":13.9, "stock":100, "categoria":"Hamburguesas"},
+
+    {"id":5, "nombre":"BBQ burger", "calorias":1100, "descripcion":"Hamburguesa con carne 100% vacuno, bacon, aros de cebolla, queso americano y salsa BBQ", "imagen":"https://thegoodburger.com/assets/web/img/products/burgers/bbq/bbqburguer1.jpg", "precio":14.9, "stock":100, "categoria":"Hamburguesas"},
+
+    {"id":6, "nombre":"Pollo crunchy", "calorias":900, "descripcion":"Pechuga de pollo crujiente, queso americano, tomate, lechuga batavia y mayonesa", "imagen":"https://thegoodburger.com/assets/web/img/products/specials/crunchy/pollocrunchy1.jpg", "precio":11.9, "stock":100, "categoria":"Hamburguesas"},
+
+    {"id":7, "nombre":"Tarta de queso", "calorias":700, "descripcion":"Tarta de queso horneada, suave y jugosa acompañada de salsa de frutos rojos", "imagen":"https://thegoodburger.com/assets/web/img/products/burgers/bbq/bbqburguer1.jpg", "precio":5.9, "stock":50, "categoria":"Postres"},
+
+    {"id":8, "nombre":"Brownie", "calorias":800, "descripcion":"Clásico de chocolate con nueces y helado de vainilla", "imagen":"https://recetasdecocina.elmundo.es/wp-content/uploads/2016/11/brownie-de-chocolate-655x420.jpg", "precio":5.9, "stock":50, "categoria":"Postres"},
+
+    {"id":7, "nombre":"Refrescos", "calorias":500, "descripcion":"Barra libre de refrescos varios", "imagen":"https://www.clinicarehbergerlopezfanjul.es/wp-content/uploads/2020/10/background-beverage-bubble-caffeine-carbonated-carbonated-drink-1456355-pxhere.com_.jpg", "precio":5.9, "stock":200, "categoria":"Bebidas"},
+
+    {"id":8, "nombre":"Agua", "calorias":50, "descripcion":"Agua de manatial de los Alpes suizos", "imagen":"https://s.yimg.com/ny/api/res/1.2/hO4bRypmWCTbjAkNn7qdUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2021-07/939b5360-f067-11eb-bfff-378cb7bf3a92", "precio":3.9, "stock":200, "categoria":"Bebidas"}
+]
+
